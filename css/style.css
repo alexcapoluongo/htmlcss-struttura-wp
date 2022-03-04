@@ -50,21 +50,16 @@
 .title{
     height:20%;
     background-color: #abcfe6;
-
 }
 
-.first-item{
-    width:25%;
-}
-
-.second-item{
+.central-item{
     width:calc(50% - 20px);
     margin-left:10px;
     margin-right:10px;
 
 }
 
-.third-item{
+.side-item{
     width:25%;
 }
 
