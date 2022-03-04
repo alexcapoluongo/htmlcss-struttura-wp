@@ -16,33 +16,32 @@
 .container{
     margin: 10px auto 10px;
     width: 80%;
-    background-color: azure;
 }
 
 .header{
     height:50px;
     width:100%;
-    background-color: red;
+    background-color: #e579e5;
 }
 
 .banner{
-    background-color: yellow;
+    background-color: #e1d57a;
     height: 200px;
 }
 
 .content{
-    background-color:blue;
-    height:400px;
+    background-color:#0084fd;
+    height:300px;
 }
 
 .margin{
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 /* items */
 
 .item{
-    background-color: burlywood;
+    background-color: #abcfe6;
     height:calc(80% - 20px);
     float:left;
     margin-top:10px;
@@ -50,7 +49,7 @@
 
 .title{
     height:20%;
-    background-color: burlywood;
+    background-color: #abcfe6;
 
 }
 
