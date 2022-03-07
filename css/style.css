@@ -56,6 +56,7 @@
     width:calc(50% - 20px);
     margin-left:10px;
     margin-right:10px;
+    /* margin: 0 10 */
 
 }
 
@@ -69,3 +70,61 @@ footer{
     background-color: violet;
     margin-top:10px;
 }
+
+/* CORREZIONE 
+
+.container{
+    margin: 0 auto;
+    width: 80%;
+}
+
+header{
+    height:50px;
+    bgcolor: violet;
+
+}
+
+.banner{
+    height: 500px;
+    bgcolor:yellow;
+
+}
+
+col{
+    float:left;
+}
+
+col side{
+    width:25%
+}
+
+calc si usa solo quando togliamo pixel, meglio diminuire la percentuale direttamente
+col center{
+
+    width:46% (50-2x2)
+    margin: 0 2%;
+}
+
+footer{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
